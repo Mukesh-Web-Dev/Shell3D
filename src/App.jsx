@@ -174,7 +174,7 @@ function App() {
           }}
           dpr={[1, 2]}
         >
-          <MyLight />
+          {/* <MyLight /> */}
           <OrbitControls
             makeDefault
             autoRotate={true}

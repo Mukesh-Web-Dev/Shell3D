@@ -148,7 +148,7 @@ function MyLight() {
         castShadow
       />
 
-      <rectAreaLight
+      {/* <rectAreaLight
         ref={rectAreaLightRef}
         position={rectAreaPosition}
         color={rectAreaColor}
@@ -156,7 +156,7 @@ function MyLight() {
         width={rectAreaWidth}
         height={rectAreaHeight}
         castShadow
-      />
+      /> */}
     </>
   );
 }
